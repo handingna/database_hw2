@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21b8badf-35f1-46b9-a40c-203957df6ce0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/model/buyer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/model/db_conn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/model/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/model/seller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/model/store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/model/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/serve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/view/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/view/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/view/buyer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be/view/seller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/auth.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/buyer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/seller.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/access/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/access/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/access/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/access/buyer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/access/new_buyer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/access/new_seller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/access/seller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/bench/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/bench/bench.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/bench/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/bench/session.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/bench/workload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/data/book.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/data/book_lx.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/data/scraper.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/data/scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/gen_book_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_add_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_add_funds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_add_stock_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_bench.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_buyer_order_cancel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_create_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_history_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_new_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_overtime_order_cancel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_payment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_receive_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_search_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fe/test/test_ship_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/test.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/.coverage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/.idea/bookstore.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/app.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/model/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/model/buyer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/model/db_conn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/model/error.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/model/seller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/model/store.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/model/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/serve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/view/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/view/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/view/buyer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/be/view/seller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/doc/auth.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/doc/buyer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/doc/seller.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/access/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/access/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/access/book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/access/buyer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/access/new_buyer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/access/new_seller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/access/seller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/bench/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/bench/bench.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/bench/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/bench/session.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/bench/workload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/data/book.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/data/scraper.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/data/scraper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/gen_book_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_add_book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_add_funds.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_add_stock_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_bench.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_buyer_order_cancel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_create_store.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_history_order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_new_order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_overtime_order_cancel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_password.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_payment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_receive_order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_register.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_search_book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/fe/test/test_ship_order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/script/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore_MySQL/setup.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ZVx6ABXC8PTSw5HIrOAhl96pBf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21b8badf-35f1-46b9-a40c-203957df6ce0" name="Changes" comment="" />
+      <created>1702520869856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702520869856</updated>
+      <workItem from="1702520907844" duration="3014000" />
+      <workItem from="1702530902468" duration="2381000" />
+      <workItem from="1702605926533" duration="4908000" />
+      <workItem from="1702875131940" duration="6489000" />
+      <workItem from="1702911082783" duration="4028000" />
+      <workItem from="1702944813600" duration="7202000" />
+      <workItem from="1702962737405" duration="4948000" />
+      <workItem from="1703066197440" duration="2735000" />
+      <workItem from="1703068972641" duration="128000" />
+      <workItem from="1703069629387" duration="4243000" />
+      <workItem from="1703086784841" duration="2207000" />
+      <workItem from="1703090412875" duration="1074000" />
+      <workItem from="1703123460415" duration="4915000" />
+      <workItem from="1703135296991" duration="3694000" />
+      <workItem from="1703264265508" duration="1242000" />
+      <workItem from="1703303398639" duration="5218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/database_hw2$run.coverage" NAME="run Coverage Results" MODIFIED="1703127630775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fe/bench" />
+    <SUITE FILE_PATH="coverage/database_hw2$.coverage" NAME=" Coverage Results" MODIFIED="1703308873718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fe/test" />
+    <SUITE FILE_PATH="coverage/database_hw2$store.coverage" NAME="store Coverage Results" MODIFIED="1703125745477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/be/model" />
+    <SUITE FILE_PATH="coverage/database_hw2$app.coverage" NAME="app Coverage Results" MODIFIED="1703127625942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/be" />
+    <SUITE FILE_PATH="coverage/database_hw2$workload.coverage" NAME="workload Coverage Results" MODIFIED="1703124759813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fe/bench" />
+    <SUITE FILE_PATH="coverage/database_hw2$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1702911095533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fe/test" />
+  </component>
+</project>
